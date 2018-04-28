@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>AVLNode.h</itemPath>
+      <itemPath>AVL_Tree.h</itemPath>
+      <itemPath>BST_With_Rotate.h</itemPath>
+      <itemPath>BTNode.h</itemPath>
+      <itemPath>B_Tree.h</itemPath>
+      <itemPath>Binary_Search_Tree.h</itemPath>
+      <itemPath>Binary_Tree.h</itemPath>
+      <itemPath>Test_Binary_Search_Tree_Double.cpp</itemPath>
+      <itemPath>pre_order_traversal.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="AVLNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AVL_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BST_With_Rotate.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BTNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="B_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Binary_Search_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Binary_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Test_Binary_Search_Tree_Double.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pre_order_traversal.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="AVLNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AVL_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BST_With_Rotate.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BTNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="B_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Binary_Search_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Binary_Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Test_Binary_Search_Tree_Double.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pre_order_traversal.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
